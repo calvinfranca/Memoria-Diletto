@@ -1,0 +1,379 @@
+C:\Users\005614\Desktop\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.csprojAssemblyReference.cache
+C:\Users\005614\Desktop\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.csproj.CoreCompileInputs.cache
+C:\Users\005614\Desktop\AULA04_B\AULA04_B\bin\Windows\x86\Debug\AULA04_B.exe
+C:\Users\005614\Desktop\AULA04_B\AULA04_B\bin\Windows\x86\Debug\AULA04_B.pdb
+C:\Users\005614\Desktop\AULA04_B\AULA04_B\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\005614\Desktop\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\005614\Desktop\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\005614\Desktop\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\005614\Desktop\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\005614\Desktop\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\005614\Desktop\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\005614\Desktop\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\005614\Desktop\AULA04_B\AULA04_B\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\005614\Desktop\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\005614\Desktop\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\005614\Desktop\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\005614\Desktop\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\005614\Desktop\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\005614\Desktop\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\005614\Desktop\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\005614\Desktop\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.csproj.CopyComplete
+C:\Users\005614\Desktop\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.exe
+C:\Users\005614\Desktop\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.pdb
+C:\Users\005614\Desktop\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Carta1.xnb
+C:\Users\005614\Desktop\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\CartaCosta.xnb
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Carta1.xnb
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta10.xnb
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Carta2.xnb
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta3.xnb
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta4.xnb
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta5.xnb
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta6.xnb
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta7.xnb
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta8.xnb
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta9.xnb
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\CartaCosta.xnb
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\AULA04_B.exe
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\AULA04_B.pdb
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.csproj.CoreCompileInputs.cache
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.csproj.CopyComplete
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.exe
+C:\Users\005614\Desktop\AULA04_Parte1\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.pdb
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Carta1.xnb
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta10.xnb
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Carta2.xnb
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta3.xnb
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta4.xnb
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta5.xnb
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta6.xnb
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta7.xnb
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta8.xnb
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta9.xnb
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\CartaCosta.xnb
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\AULA04_B.exe
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\AULA04_B.pdb
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.csprojAssemblyReference.cache
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.csproj.CoreCompileInputs.cache
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.csproj.CopyComplete
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.exe
+C:\Users\egomes\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.pdb
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Carta1.xnb
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta10.xnb
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Carta2.xnb
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta3.xnb
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta4.xnb
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta5.xnb
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta6.xnb
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta7.xnb
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta8.xnb
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta9.xnb
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\CartaCosta.xnb
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\AULA04_B.exe
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\AULA04_B.pdb
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.csprojAssemblyReference.cache
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.csproj.CoreCompileInputs.cache
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.csproj.CopyComplete
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.exe
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.pdb
+C:\Users\005614\Desktop\AULA04_Parte2\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Verdana.xnb
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Carta1.xnb
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta10.xnb
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Carta2.xnb
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta3.xnb
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta4.xnb
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta5.xnb
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta6.xnb
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta7.xnb
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta8.xnb
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta9.xnb
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\CartaCosta.xnb
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Verdana.xnb
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\AULA04_B.exe
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\AULA04_B.pdb
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.csproj.CoreCompileInputs.cache
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.csproj.CopyComplete
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.exe
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.pdb
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\botao.xnb
+C:\Users\005614\Desktop\AULA04_PARTE3\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.csprojAssemblyReference.cache
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\botao.xnb
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Carta1.xnb
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta10.xnb
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Carta2.xnb
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta3.xnb
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta4.xnb
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta5.xnb
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta6.xnb
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta7.xnb
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta8.xnb
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta9.xnb
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\CartaCosta.xnb
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Verdana.xnb
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\AULA04_B.exe
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\AULA04_B.pdb
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.csprojAssemblyReference.cache
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.csproj.CoreCompileInputs.cache
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.csproj.CopyComplete
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.exe
+C:\Users\005614\Desktop\AULA04_FINAL\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.pdb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Content\botao.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Content\Carta1.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Content\carta10.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Content\Carta2.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Content\carta3.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Content\carta4.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Content\carta5.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Content\carta6.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Content\carta7.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Content\carta8.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Content\carta9.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Content\CartaCosta.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Content\Verdana.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\botao.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Carta1.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta10.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Carta2.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta3.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta4.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta5.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta6.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta7.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta8.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\carta9.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\CartaCosta.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Verdana.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\AULA04_B.exe
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\AULA04_B.pdb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.csprojAssemblyReference.cache
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.csproj.CoreCompileInputs.cache
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.csproj.CopyComplete
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.exe
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\obj\x86\Debug\AULA04_B.pdb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Arial14.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Arial18.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Calvin.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\fundo.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Puc.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\fundologo.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\ArialGrande.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\Programação\AULA05\AULA04_B\AULA04_B\bin\Windows\x86\Debug\Content\Arial24.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\botao.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\Carta1.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\carta10.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\Carta2.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\carta3.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\carta4.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\carta5.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\carta6.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\carta7.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\carta8.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\carta9.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\CartaCosta.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\Verdana.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Arial14.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Arial18.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Arial24.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\ArialGrande.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\botao.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Calvin.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Carta1.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Carta10.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Carta2.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\carta3.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\carta4.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\carta5.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Carta6.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\carta7.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Carta8.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\carta9.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\CartaCosta.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\fundo.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\fundologo.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Puc.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Verdana.xnb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\AULA04_B.exe
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\AULA04_B.pdb
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\obj\x86\Debug\AULA04_B.csprojAssemblyReference.cache
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\obj\x86\Debug\AULA04_B.csproj.CoreCompileInputs.cache
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\obj\x86\Debug\AULA04_B.csproj.CopyComplete
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\obj\x86\Debug\AULA04_B.exe
+C:\Users\CALVIN DO AMARAL\Desktop\trabs\proj2_ra00207814\AULA04_B\obj\x86\Debug\AULA04_B.pdb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\botao.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\Carta1.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\carta10.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\Carta2.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\carta3.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\carta4.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\carta5.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\carta6.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\carta7.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\carta8.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\carta9.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\CartaCosta.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Content\Verdana.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Arial.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Arial14.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Arial18.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Arial24.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\ArialGrande.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\botao.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Calvin.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Carta1.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Carta10.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Carta2.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\carta3.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\carta4.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\carta5.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Carta6.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\carta7.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Carta8.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\carta9.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\CartaCosta.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\fundo.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\fundologo.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Puc.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\Content\Verdana.xnb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\AULA04_B.exe
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\AULA04_B.pdb
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.dll
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.xml
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\obj\x86\Debug\AULA04_B.csprojAssemblyReference.cache
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\obj\x86\Debug\AULA04_B.csproj.CoreCompileInputs.cache
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\obj\x86\Debug\AULA04_B.csproj.CopyComplete
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\obj\x86\Debug\AULA04_B.exe
+D:\Arquivos de Programas\aquii\trabs\proj2_ra00207814\AULA04_B\obj\x86\Debug\AULA04_B.pdb

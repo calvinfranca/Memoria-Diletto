@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Arquivos de Programas/aquii/trabs/proj2_ra00207814/AULA04_B/Content/botao.png</File>
+    <File>D:/Arquivos de Programas/aquii/trabs/proj2_ra00207814/AULA04_B/Content/Verdana.spritefont</File>
+    <File>D:/Arquivos de Programas/aquii/trabs/proj2_ra00207814/AULA04_B/Content/Carta1.jpg</File>
+    <File>D:/Arquivos de Programas/aquii/trabs/proj2_ra00207814/AULA04_B/Content/Carta2.jpg</File>
+    <File>D:/Arquivos de Programas/aquii/trabs/proj2_ra00207814/AULA04_B/Content/Carta3.jpg</File>
+    <File>D:/Arquivos de Programas/aquii/trabs/proj2_ra00207814/AULA04_B/Content/Carta4.jpg</File>
+    <File>D:/Arquivos de Programas/aquii/trabs/proj2_ra00207814/AULA04_B/Content/Carta5.jpg</File>
+    <File>D:/Arquivos de Programas/aquii/trabs/proj2_ra00207814/AULA04_B/Content/Carta6.jpg</File>
+    <File>D:/Arquivos de Programas/aquii/trabs/proj2_ra00207814/AULA04_B/Content/Carta7.jpg</File>
+    <File>D:/Arquivos de Programas/aquii/trabs/proj2_ra00207814/AULA04_B/Content/Carta8.jpg</File>
+    <File>D:/Arquivos de Programas/aquii/trabs/proj2_ra00207814/AULA04_B/Content/Carta9.jpg</File>
+    <File>D:/Arquivos de Programas/aquii/trabs/proj2_ra00207814/AULA04_B/Content/Carta10.jpg</File>
+    <File>D:/Arquivos de Programas/aquii/trabs/proj2_ra00207814/AULA04_B/Content/CartaCosta.png</File>
+    <File>D:/Arquivos de Programas/aquii/trabs/proj2_ra00207814/AULA04_B/Content/Arial.spritefont</File>
+    <File>D:/Arquivos de Programas/aquii/trabs/proj2_ra00207814/AULA04_B/Content/Arial14.spritefont</File>
+    <File>D:/Arquivos de Programas/aquii/trabs/proj2_ra00207814/AULA04_B/Content/Arial18.spritefont</File>
+    <File>D:/Arquivos de Programas/aquii/trabs/proj2_ra00207814/AULA04_B/Content/Calvin.png</File>
+    <File>D:/Arquivos de Programas/aquii/trabs/proj2_ra00207814/AULA04_B/Content/fundo.jpg</File>
+    <File>D:/Arquivos de Programas/aquii/trabs/proj2_ra00207814/AULA04_B/Content/Puc.png</File>
+    <File>D:/Arquivos de Programas/aquii/trabs/proj2_ra00207814/AULA04_B/Content/fundologo.jpg</File>
+    <File>D:/Arquivos de Programas/aquii/trabs/proj2_ra00207814/AULA04_B/Content/ArialGrande.spritefont</File>
+    <File>D:/Arquivos de Programas/aquii/trabs/proj2_ra00207814/AULA04_B/Content/Arial24.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

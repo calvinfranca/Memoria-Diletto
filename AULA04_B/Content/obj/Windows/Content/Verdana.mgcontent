@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/005614/Desktop/AULA04_FINAL/AULA04_B/AULA04_B/Content/Verdana.spritefont</SourceFile>
+  <SourceTime>2018-12-08T14:35:46-02:00</SourceTime>
+  <DestFile>C:/Users/005614/Desktop/AULA04_FINAL/AULA04_B/AULA04_B/Content/bin/Windows/Content/Verdana.xnb</DestFile>
+  <DestTime>2019-03-21T08:04:41.5358916-03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T14:35:54-02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T14:35:54-02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/005614/Desktop/AULA04_FINAL/AULA04_B/AULA04_B/Content/botao.png</File>
+    <File>C:/Users/005614/Desktop/AULA04_FINAL/AULA04_B/AULA04_B/Content/Carta1.jpg</File>
+    <File>C:/Users/005614/Desktop/AULA04_FINAL/AULA04_B/AULA04_B/Content/carta10.jfif</File>
+    <File>C:/Users/005614/Desktop/AULA04_FINAL/AULA04_B/AULA04_B/Content/Carta2.jpg</File>
+    <File>C:/Users/005614/Desktop/AULA04_FINAL/AULA04_B/AULA04_B/Content/carta3.jpg</File>
+    <File>C:/Users/005614/Desktop/AULA04_FINAL/AULA04_B/AULA04_B/Content/carta4.jpg</File>
+    <File>C:/Users/005614/Desktop/AULA04_FINAL/AULA04_B/AULA04_B/Content/carta5.jpg</File>
+    <File>C:/Users/005614/Desktop/AULA04_FINAL/AULA04_B/AULA04_B/Content/carta6.jfif</File>
+    <File>C:/Users/005614/Desktop/AULA04_FINAL/AULA04_B/AULA04_B/Content/carta7.jpg</File>
+    <File>C:/Users/005614/Desktop/AULA04_FINAL/AULA04_B/AULA04_B/Content/carta8.jfif</File>
+    <File>C:/Users/005614/Desktop/AULA04_FINAL/AULA04_B/AULA04_B/Content/carta9.jpg</File>
+    <File>C:/Users/005614/Desktop/AULA04_FINAL/AULA04_B/AULA04_B/Content/CartaCosta.png</File>
+    <File>C:/Users/005614/Desktop/AULA04_FINAL/AULA04_B/AULA04_B/Content/Verdana.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

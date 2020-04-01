@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Arquivos de Programas/aquii/trabs/proj2_ra00207814/AULA04_B/Content/Arial.spritefont</SourceFile>
+  <SourceTime>2019-03-31T18:41:38-03:00</SourceTime>
+  <DestFile>D:/Arquivos de Programas/aquii/trabs/proj2_ra00207814/AULA04_B/Content/bin/Windows/Arial.xnb</DestFile>
+  <DestTime>2020-03-31T21:20:30.1044634-03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T12:05:36-03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T12:05:36-03:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
